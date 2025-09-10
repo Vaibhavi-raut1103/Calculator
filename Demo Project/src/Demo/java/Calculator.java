@@ -9,6 +9,11 @@ public void add()
 {
 	System.out.println(5+4);
 }
+	public void mul()
+	{
+		System.out.println(5*4);
+	}
+	
 	
 }
 
