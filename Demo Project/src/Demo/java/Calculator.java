@@ -5,10 +5,11 @@ public void add()
 {
 	System.out.println(5+4);
 }
-	public void add()
+	public void sub()
 {
 	System.out.println(5+4);
 }
 	
 }
+
 
